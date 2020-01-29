@@ -1,3 +1,3 @@
 # devradar
 
-Projeto resultado da Semana Omnistack #10
+Projeto resultado da Semana Omnistack #10 
